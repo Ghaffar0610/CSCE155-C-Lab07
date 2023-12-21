@@ -268,7 +268,7 @@ files using:
 ```text
 gcc -c array_utils.c
 gcc array_utils.o arrayMain.c
-```
+``
 
 The program, as provided, generates an integer array
 of size 10 filled with random values, prints the result

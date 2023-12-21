@@ -35,7 +35,7 @@ int * generateRandomArray(int size) {
   for(int i=0; i<size; i++) {
     randomArr[i] = rand() % 100;
   }
-  return randomArr;
+ // return randomArr;
 }
 
 int getSum(int *arr, int size) {
